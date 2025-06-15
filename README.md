@@ -83,16 +83,6 @@ Only users with this permission will be able to use `/motd set <message>`.
 
 ---
 
-## 🗒 Changelog
-
-### v1.0.0
-- ✅ Added `/motd` and `/motd set` commands
-- ✅ Saved MOTD to config
-- ✅ Updated MOTD shown in the multiplayer server list
-- ✅ Permission check with `@Permission("motd.set")`
-
----
-
 ## 📄 License
 
 Licensed under the [MIT License](LICENSE).
